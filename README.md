@@ -26,7 +26,7 @@ To help the Lending Club, my goal is to predict the "bad_loan" column. The remai
 The graphs above show the count for all numerical data in the dataset. We can identify the outliers in these graphs by the difference of one value when compared to the other values.
 
 #### Histogram of Categorical Columns
-![Cat Columns_Image](CatHistColumns.png)
+![Cat_Columns_Image](CatHistColumns.png)
 
 The graphs above show the count for all categorical data in the dataset. We can identify the outliers in these graphs by the difference of one value when compared to the other values.
 
